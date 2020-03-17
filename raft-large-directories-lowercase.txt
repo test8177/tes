@@ -25999,14 +25999,6 @@ hearingaid
 ~liam
 ~mark
 ~tmp
-ļ
-̨ļ
-űļ
-ģļ
-ݿļ
-”
-特殊
-讨论
 1000
 1040
 1041
@@ -26574,12 +26566,10 @@ woodbury
 worcester
 write-a-review
 yellow-pages
- beeskow
+beeskow
 !execute
 !login
 !register
-	1
-   
 !!
 !-!
 !admin
@@ -27822,8 +27812,7 @@ wemet
 fundswire
 fusionmaps
 fussball-de
-fürstenwalde 
- storkow
+storkow
 g15
 g3
 g4
@@ -28068,8 +28057,7 @@ jumpto
 jupiter
 justine
 juventud
-jüterbog 
- luckenwalde
+luckenwalde
 kdewebsite
 kdn
 kfc
@@ -37417,7 +37405,6 @@ encina
 encnet
 encoding
 encore
-hervé_taïeb
 91471
 endeavor
 endnote
@@ -52291,7 +52278,6 @@ wien
 wik
 badcontent
 francisco_franco
-león_españa
 htmlets
 wikibase
 wikileaks
@@ -53056,15 +53042,6 @@ scripts_webpoll
 ~validation
 ~webdev
 ~wwwsite
-g
-ļ
- 
-վ̨Ŀ¼
-վģ
-новости
-страница
-ʽļ
-：
 0-23
 001131
 001132
@@ -55089,7 +55066,6 @@ getwall
 getafe
 ghana
 gym dance
-hipódromo
 illuminatedmind
 itemid38
 konporta ke
